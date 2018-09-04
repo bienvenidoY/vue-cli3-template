@@ -1,5 +1,8 @@
 # vue-cli3 配置
 
+- vue-cli  v3.0.0
+- node v10.6.0
+
 ## feature
 - 增加site测试环境
 - 增加alias文件索引配置
